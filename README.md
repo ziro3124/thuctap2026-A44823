@@ -18,7 +18,7 @@ Mục tiêu là phân tích dữ liệu, xây dựng quy trình tiền xử lý 
 ## 3. Cấu trúc repository
 
 - `sql/`: câu truy vấn SQL và các view.
-- `sql/images/`: ảnh đề bài hoặc ảnh tham khảo câu truy vấn.
+- `sql/tuan/`: ảnh đề bài hoặc ảnh tham khảo câu truy vấn.
 - `notebooks/`: notebook EDA, tiền xử lý và thử nghiệm mô hình.
 - `reports/`: báo cáo và nhật ký thực tập theo tuần.
 - `models/`: code huấn luyện, đánh giá và sử dụng mô hình.
