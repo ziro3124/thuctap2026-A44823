@@ -37,4 +37,4 @@ Không lưu mật khẩu, file `.env`, dữ liệu bán hàng thô hoặc thông
 
 ## 6. Nhật ký thực tập
 
-Nhật ký từng tuần được lưu tại `reports/nhat-ky-tuan-XX.md`.
+Nhật ký từng tuần được lưu tại `sql/tuan-XX.md`.
