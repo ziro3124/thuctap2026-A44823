@@ -1,0 +1,6 @@
+buoc_lam_sach,so_dong_con_lai,so_dong_bi_loai,ly_do
+"Hóa đơn hợp lệ (không hủy, tính doanh thu)",729654,1234,Hóa đơn hủy/không hợp lệ không phản ánh nhu cầu thật
+Chỉ dòng bán (quantity > 0),712432,17222,Dòng trả hàng không phải tín hiệu mua
+Nối được sku (sau TRIM/UPPER),712429,3,"Không có item để gợi ý (túi, phí, quà...)"
+Có customer_id,373916,338513,Khách vãng lai không cá nhân hóa được
+Trong năm 2025,373916,0,Phạm vi phân tích
