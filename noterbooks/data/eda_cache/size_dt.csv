@@ -1,0 +1,178 @@
+group_cat,size_name,ban_sl,tra_sl
+01. Top (áo),10Y-27-30kg,21739.0,722.0
+01. Top (áo),11Y-30-32kg,47.0,1.0
+01. Top (áo),12Y-32-34kg,14802.0,588.0
+01. Top (áo),13Y-33-35kg,1.0,0.0
+01. Top (áo),14Y-35-37kg,5814.0,264.0
+01. Top (áo),1Y-9-11kg,535.0,17.0
+01. Top (áo),2Y-11-12kg,11142.0,264.0
+01. Top (áo),3Y-12-13kg,4351.0,83.0
+01. Top (áo),4Y-14-16kg,30439.0,795.0
+01. Top (áo),5Y-17-19kg,5951.0,113.0
+01. Top (áo),6Y-19-21kg,31716.0,857.0
+01. Top (áo),7Y-21-23kg,1796.0,41.0
+01. Top (áo),8Y-23-25kg,26148.0,745.0
+01. Top (áo),9Y-25-27kg,327.0,7.0
+01. Top (áo),(blank),26073.0,712.0
+01. Top (áo),Free size,260.0,0.0
+01. Top (áo),L,16.0,0.0
+01. Top (áo),M,22.0,0.0
+01. Top (áo),S,30.0,0.0
+01. Top (áo),XL,5.0,0.0
+02. Bottom (quần & chân váy),10Y-27-30kg,12371.0,373.0
+02. Bottom (quần & chân váy),11Y-30-32kg,126.0,2.0
+02. Bottom (quần & chân váy),12Y-32-34kg,8730.0,270.0
+02. Bottom (quần & chân váy),13Y-33-35kg,33.0,4.0
+02. Bottom (quần & chân váy),14Y-35-37kg,3387.0,97.0
+02. Bottom (quần & chân váy),1Y-9-11kg,298.0,2.0
+02. Bottom (quần & chân váy),2Y-11-12kg,6272.0,137.0
+02. Bottom (quần & chân váy),3Y-12-13kg,2544.0,60.0
+02. Bottom (quần & chân váy),4Y-14-16kg,17230.0,474.0
+02. Bottom (quần & chân váy),5Y-17-19kg,3820.0,90.0
+02. Bottom (quần & chân váy),6Y-19-21kg,18414.0,529.0
+02. Bottom (quần & chân váy),7Y-21-23kg,1378.0,46.0
+02. Bottom (quần & chân váy),8Y-23-25kg,15080.0,434.0
+02. Bottom (quần & chân váy),9Y-25-27kg,533.0,15.0
+02. Bottom (quần & chân váy),(blank),15937.0,321.0
+02. Bottom (quần & chân váy),Free size,5.0,0.0
+02. Bottom (quần & chân váy),Size19-12.45cm,1.0,1.0
+03. Dress (đầm & yếm),10Y-27-30kg,10453.0,307.0
+03. Dress (đầm & yếm),11Y-30-32kg,11.0,0.0
+03. Dress (đầm & yếm),12Y-32-34kg,5011.0,134.0
+03. Dress (đầm & yếm),13Y-33-35kg,4.0,0.0
+03. Dress (đầm & yếm),14Y-35-37kg,572.0,18.0
+03. Dress (đầm & yếm),15Y-37-40kg,1.0,0.0
+03. Dress (đầm & yếm),1Y-9-11kg,2897.0,67.0
+03. Dress (đầm & yếm),2Y-11-12kg,9569.0,302.0
+03. Dress (đầm & yếm),3Y-12-13kg,5285.0,127.0
+03. Dress (đầm & yếm),4Y-14-16kg,26047.0,974.0
+03. Dress (đầm & yếm),5Y-17-19kg,12131.0,434.0
+03. Dress (đầm & yếm),6-9M-6-8kg,1.0,0.0
+03. Dress (đầm & yếm),6Y-19-21kg,24134.0,805.0
+03. Dress (đầm & yếm),7Y-21-23kg,6879.0,281.0
+03. Dress (đầm & yếm),8Y-23-25kg,19281.0,593.0
+03. Dress (đầm & yếm),9Y-25-27kg,387.0,7.0
+03. Dress (đầm & yếm),(blank),11218.0,270.0
+03. Dress (đầm & yếm),Free size,793.0,6.0
+03. Dress (đầm & yếm),Size22-14.45cm,3.0,0.0
+03. Dress (đầm & yếm),Size23-15.5cm,8.0,0.0
+04. Set (bộ),10Y-27-30kg,5179.0,147.0
+04. Set (bộ),11Y-30-32kg,29.0,0.0
+04. Set (bộ),12Y-32-34kg,4365.0,122.0
+04. Set (bộ),14Y-35-37kg,1195.0,41.0
+04. Set (bộ),1Y-9-11kg,1327.0,18.0
+04. Set (bộ),2Y-11-12kg,5083.0,105.0
+04. Set (bộ),3-6M-4-6kg,40.0,0.0
+04. Set (bộ),3Y-12-13kg,3485.0,86.0
+04. Set (bộ),4Y-14-16kg,10466.0,301.0
+04. Set (bộ),5Y-17-19kg,4153.0,82.0
+04. Set (bộ),6Y-19-21kg,10325.0,275.0
+04. Set (bộ),7Y-21-23kg,1780.0,45.0
+04. Set (bộ),8Y-23-25kg,7495.0,238.0
+04. Set (bộ),9Y-25-27kg,488.0,10.0
+04. Set (bộ),(blank),13247.0,309.0
+04. Set (bộ),Free size,1451.0,5.0
+05. Footwear,10Y-27-30kg,24.0,3.0
+05. Footwear,11Y-30-32kg,53.0,2.0
+05. Footwear,12Y-32-34kg,28.0,2.0
+05. Footwear,15Y-37-40kg,635.0,20.0
+05. Footwear,9Y-25-27kg,20.0,1.0
+05. Footwear,(blank),427.0,6.0
+05. Footwear,K3,7.0,0.0
+05. Footwear,K4,2.0,0.0
+05. Footwear,K5,2.0,0.0
+05. Footwear,K6,8.0,1.0
+05. Footwear,Size-16,648.0,22.0
+05. Footwear,Size-17,660.0,28.0
+05. Footwear,Size-18,455.0,19.0
+05. Footwear,Size19-12.45cm,984.0,70.0
+05. Footwear,Size20-13cm,957.0,51.0
+05. Footwear,Size21-13.79cm,1767.0,124.0
+05. Footwear,Size22-14.45cm,1836.0,122.0
+05. Footwear,Size23-15.5cm,2001.0,134.0
+05. Footwear,Size24-15.78cm,2157.0,144.0
+05. Footwear,Size25-16.5cm,2916.0,220.0
+05. Footwear,Size 26-17cm,3452.0,255.0
+05. Footwear,Size27-17.5cm,2568.0,180.0
+05. Footwear,Size 28-18cm,3021.0,223.0
+05. Footwear,Size 29-19cm,2479.0,173.0
+05. Footwear,Size 30-19.5cm,2809.0,183.0
+05. Footwear,Size 31-20cm,1492.0,117.0
+05. Footwear,Size32-21cm,1738.0,126.0
+05. Footwear,Size33-22cm,1117.0,92.0
+05. Footwear,Size34-23cm,762.0,56.0
+05. Footwear,Size35-24cm,344.0,15.0
+06. Others,1000ml,2.0,0.0
+06. Others,10Y-27-30kg,4676.0,61.0
+06. Others,11.5x11x7cm,140.0,0.0
+06. Others,11Y-30-32kg,47.0,0.0
+06. Others,12-18M-10-11kg,4.0,0.0
+06. Others,12x6cm,10.0,5.0
+06. Others,12x9x4cm,224.0,2.0
+06. Others,12Y-32-34kg,4078.0,61.0
+06. Others,13Y-33-35kg,41.0,0.0
+06. Others,14.5x12x6cm,152.0,1.0
+06. Others,14.5x9.5x6cm,106.0,0.0
+06. Others,14Y-35-37kg,3264.0,45.0
+06. Others,15x12x6cm,148.0,5.0
+06. Others,15x13x5cm,36.0,1.0
+06. Others,15x17x6cm,1.0,0.0
+06. Others,15Y-37-40kg,4.0,0.0
+06. Others,17x14x6cm,101.0,0.0
+06. Others,19x18x11cm,151.0,11.0
+06. Others,1Y-9-11kg,30668.0,16.0
+06. Others,20x20 cm,12.0,1.0
+06. Others,22x16x10cm,117.0,2.0
+06. Others,23X19X9CM,117.0,1.0
+06. Others,27x13x36cm,58.0,0.0
+06. Others,2Y-11-12kg,21411.0,185.0
+06. Others,30x25cm,3.0,0.0
+06. Others,310ml,2.0,0.0
+06. Others,3-6M-4-6kg,6.0,0.0
+06. Others,3Y-12-13kg,371.0,9.0
+06. Others,400ml,13.0,0.0
+06. Others,450ml,640.0,7.0
+06. Others,470ml,253.0,1.0
+06. Others,4x8cm,7.0,2.0
+06. Others,4Y-14-16kg,7562.0,122.0
+06. Others,530ml,37.0,0.0
+06. Others,550ml,125.0,0.0
+06. Others,560ml,7.0,0.0
+06. Others,570ml,3.0,0.0
+06. Others,5Y-17-19kg,429.0,5.0
+06. Others,600ML,7.0,0.0
+06. Others,650ml,269.0,2.0
+06. Others,6-9M-6-8kg,9.0,1.0
+06. Others,6Y-19-21kg,7556.0,154.0
+06. Others,720ml,8.0,0.0
+06. Others,7Y-21-23kg,275.0,4.0
+06. Others,800ml,8.0,0.0
+06. Others,820ml,6.0,0.0
+06. Others,850ml,4.0,0.0
+06. Others,8Y-23-25kg,5837.0,126.0
+06. Others,9-12M-8-9kg,7.0,0.0
+06. Others,9Y-25-27kg,149.0,5.0
+06. Others,(blank),614.0,8.0
+06. Others,Free size,145892.0,613.0
+06. Others,L,368.0,2.0
+06. Others,M,887.0,16.0
+06. Others,S,144.0,2.0
+06. Others,Size-16,135.0,3.0
+06. Others,Size-17,31.0,0.0
+06. Others,Size-18,8.0,0.0
+06. Others,Size19-12.45cm,1.0,0.0
+06. Others,Size20-13cm,18.0,1.0
+06. Others,Size21-13.79cm,13.0,0.0
+06. Others,Size22-14.45cm,24.0,0.0
+06. Others,Size23-15.5cm,66.0,27.0
+06. Others,Size24-15.78cm,40.0,0.0
+06. Others,Size27-17.5cm,75.0,1.0
+06. Others,Size 28-18cm,77.0,0.0
+06. Others,Size 29-19cm,58.0,1.0
+06. Others,Size 31-20cm,81.0,0.0
+06. Others,Size32-21cm,16.0,0.0
+06. Others,Size33-22cm,93.0,13.0
+06. Others,Size34-23cm,87.0,16.0
+06. Others,Size35-24cm,8.0,0.0
+06. Others,XL,46.0,0.0
+,,3.0,0.0
