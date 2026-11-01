@@ -1,5 +1,0 @@
-mo_hinh,tap,nhom_khach,so_khach,recall@10,hit_rate@10
-Bán chạy 30 ngày,validation,co_lich_su,3066,0.29547595427627393,0.9031311154598826
-Bán chạy 30 ngày,validation,khach_moi,6360,0.3094842714864109,0.8723270440251573
-Bán chạy 30 ngày,test,co_lich_su,2926,0.31845870030872075,0.9265208475734792
-Bán chạy 30 ngày,test,khach_moi,4978,0.3333745383315332,0.9023704298915227
