@@ -1,7 +1,0 @@
-﻿kenh_nhom,co_giam,median,mean,count
-Cửa hàng bán lẻ,False,458000.0,604142.4985446193,94477
-Cửa hàng bán lẻ,True,518500.0,721090.6587899247,73169
-Khác (sỉ/sự kiện/không rõ),False,268705.0,319990.640407975,39022
-Khác (sỉ/sự kiện/không rõ),True,278600.0,378685.5801712254,27566
-Online,False,249000.0,279175.64527421235,857
-Online,True,295300.0,344705.4035175046,6027
