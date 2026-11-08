@@ -257,11 +257,20 @@ class Hybrid:
         pv = self.pop.v / (self.pop.v.max() + 1e-12)
         return (1 - self.w) * rownorm(self.model.score(rows)) + self.w * pv[None, :]
 
+class Blend:
+    # điểm = (1 - w) * mô hình cá nhân hóa + w * bán chạy theo giới tính (cả hai chuẩn hóa theo hàng)
+    def __init__(self, model, seg, w=0.5): self.model, self.seg, self.w, self.n = model, seg, w, model.n
+    def score(self, rows):
+        return (1 - self.w) * rownorm(self.model.score(rows)) + self.w * rownorm(self.seg.score(rows))
+
 def rebuild(name, sp_):
     """Dựng lại mô hình từ tên cấu hình và huấn luyện trên split sp_."""
     if name.startswith("Hybrid["):
         inner, w = re.match(r"Hybrid\[(.*)\] w=([0-9.]+)", name).groups()
         return Hybrid(rebuild(inner, sp_), Popularity(30).fit(sp_), float(w))
+    if name.startswith("Blend["):
+        inner, w = re.match(r"Blend\[(.*)\] w=([0-9.]+)", name).groups()
+        return Blend(rebuild(inner, sp_), SegmentPopularity(30, 0.7).fit(sp_), float(w))
     if name.startswith("ItemKNN"):
         k_, t_ = re.match(r"ItemKNN k=(\d+) tau=(\d+)", name).groups(); return ItemKNN(int(k_), int(t_)).fit(sp_)
     if name.startswith("Latent"):
@@ -270,4 +279,6 @@ def rebuild(name, sp_):
     return Popularity(30).fit(sp_)
 
 def make_cold(kind, sp_):
-    return FirstTimer(60).fit(sp_) if "FirstTimer" in kind else Popularity(30).fit(sp_)
+    """kind là tên chiến lược khách mới, ví dụ 'Popularity14' hoặc 'FirstTimer60 (...)': lấy số ngày trong tên."""
+    m = re.search(r"(\d+)", kind); d = int(m.group(1)) if m else 30
+    return FirstTimer(d).fit(sp_) if "FirstTimer" in kind else Popularity(d).fit(sp_)

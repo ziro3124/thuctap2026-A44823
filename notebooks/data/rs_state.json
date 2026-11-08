@@ -28,6 +28,7 @@
     "70036000",
     "70037000",
     "70038000",
+    "71110000",
     "92944000",
     "99200125",
     "99200225",
@@ -35,8 +36,8 @@
     "VCCUDAN",
     "VCMOMY"
   ],
-  "rep_pct": 0.02775768535262206,
-  "best_config": "SegmentPop",
-  "cold_choice": "Popularity14",
-  "best_val_ndcg": 0.037505448268278355
+  "rep_pct": 0.027482993197278913,
+  "best_config": "Blend[ItemKNN k=50 tau=120] w=0.7",
+  "cold_choice": "FirstTimer30",
+  "best_val_ndcg": 0.03979550674382591
 }
