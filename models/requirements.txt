@@ -1,0 +1,23 @@
+# Đã kiểm thử với: Python 3.13, pandas 3.0, numpy 2.5, scikit-learn 1.9, lightgbm 4.7, torch 2.15, mlflow 3.18,
+# optuna 5.0, implicit 0.7.3, fastapi 0.162. Cận dưới bên dưới là mức tối thiểu dự kiến chạy được.
+pandas>=2.2
+numpy>=1.26
+scipy>=1.11
+scikit-learn>=1.4
+SQLAlchemy>=2.0
+psycopg2-binary>=2.9
+python-dotenv>=1.0
+pyarrow>=15
+implicit>=0.7.2          # ALS; không cài được thì pipeline tự dùng SVD
+lightgbm>=4.3            # mô hình boosting (LambdaRank)
+torch>=2.2               # mô hình deep learning two-tower
+mlflow>=2.14             # theo dõi thí nghiệm
+optuna>=3.6              # tối ưu tham số
+shap>=0.45               # giải thích mô hình xếp hạng (không bắt buộc)
+matplotlib>=3.8
+fastapi>=0.110
+uvicorn>=0.29
+httpx>=0.27              # test API
+pytest>=8.0
+nbformat>=5.9
+ipykernel>=6.29

@@ -1,0 +1,9 @@
+.env
+data/
+artifacts/
+mlflow.db
+mlruns/
+mlartifacts/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/

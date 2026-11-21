@@ -1,0 +1,40 @@
+{
+  "ItemKNN": {
+    "k": 50,
+    "tau": 120
+  },
+  "ALS": {
+    "factors": 64,
+    "reg": 0.05,
+    "alpha": 40
+  },
+  "TwoTower": {
+    "dim": 64,
+    "epochs": 30,
+    "tau": 0.1
+  },
+  "LGBMRanker": {
+    "num_leaves": 17,
+    "learning_rate": 0.06723992631737642,
+    "min_child_samples": 59,
+    "colsample_bytree": 0.9371404720544085,
+    "reg_lambda": 2.0238972113476317,
+    "n_estimators": 54
+  },
+  "val_ndcg": {
+    "PopGlobal": 0.03992389693710824,
+    "PopSegment": 0.04911780527631023,
+    "ItemKNN k=20 tau=60": 0.018309919066926084,
+    "ItemKNN k=20 tau=120": 0.026780608383654227,
+    "ItemKNN k=50 tau=60": 0.022242043479816887,
+    "ItemKNN k=50 tau=120": 0.030093047399662502,
+    "ALS f=32 reg=0.05": 0.026717945331511096,
+    "ALS f=32 reg=0.5": 0.026717945331511096,
+    "ALS f=64 reg=0.05": 0.03111914920103062,
+    "ALS f=64 reg=0.5": 0.03111914920103062,
+    "TwoTower dim=32 ep=15": 0.03762815095484826,
+    "TwoTower dim=32 ep=30": 0.03823341704853477,
+    "TwoTower dim=64 ep=30": 0.03891632433273132,
+    "LGBMRanker": 0.067079944816114
+  }
+}
